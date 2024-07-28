@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-28T17:42:15 IST" name="Default suite" finished-at="2024-07-28T17:42:44 IST" duration-ms="28492">
+    <groups>
+    </groups>
+    <test started-at="2024-07-28T17:42:15 IST" name="Default test" finished-at="2024-07-28T17:42:44 IST" duration-ms="28492">
+      <class name="com.paragon.MainTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.paragon.MainTest@4b21844c]" started-at="2024-07-28T17:42:15 IST" name="openBrowser" finished-at="2024-07-28T17:42:18 IST" duration-ms="3115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verfyLogin()[pri:1, instance:com.paragon.MainTest@4b21844c]" started-at="2024-07-28T17:42:18 IST" name="verfyLogin" finished-at="2024-07-28T17:42:30 IST" duration-ms="11474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyLogin -->
+        <test-method signature="verifyText()[pri:2, instance:com.paragon.MainTest@4b21844c]" started-at="2024-07-28T17:42:30 IST" name="verifyText" finished-at="2024-07-28T17:42:30 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+        <test-method signature="searchProductByText()[pri:3, instance:com.paragon.MainTest@4b21844c]" started-at="2024-07-28T17:42:30 IST" name="searchProductByText" finished-at="2024-07-28T17:42:34 IST" duration-ms="4237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductByText -->
+        <test-method signature="addTocartAndIncreasetheQty()[pri:4, instance:com.paragon.MainTest@4b21844c]" started-at="2024-07-28T17:42:34 IST" name="addTocartAndIncreasetheQty" finished-at="2024-07-28T17:42:44 IST" duration-ms="9603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTocartAndIncreasetheQty -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.paragon.MainTest@4b21844c]" started-at="2024-07-28T17:42:44 IST" name="closeBrowser" finished-at="2024-07-28T17:42:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.paragon.MainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
